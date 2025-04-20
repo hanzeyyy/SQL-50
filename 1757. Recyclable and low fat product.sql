@@ -1,4 +1,3 @@
-Q)
 Table name: Products
 +-------------+---------+
 | Column Name | Type    |
