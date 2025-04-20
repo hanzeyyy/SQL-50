@@ -1,2 +1,2 @@
 # SQL-50
-this repository contains based on SQL 50 questions from level easy to hard from leetcode 
+this repository is based on SQL 50 questions from level easy to hard from leetcode 
